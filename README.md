@@ -20,7 +20,7 @@ FinFit to help you out with your day to day expenses and let you invest smartly.
 </ul>
 
 ## Website
-<a href="fin-fit.us">FinFit</a>
+<a href="https://fin-fit.us">FinFit</a>
 
 <br>
 
