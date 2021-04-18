@@ -19,6 +19,10 @@ FinFit to help you out with your day to day expenses and let you invest smartly.
   <li>Option to donate to charity</li>
 </ul>
 
+## WorkFlow
+![FinFit](https://user-images.githubusercontent.com/52847415/115143102-ef7b3380-a062-11eb-9c8c-369712572b07.png)
+
+
 ## Website
 <a href="https://fin-fit.us">FinFit</a>
 
